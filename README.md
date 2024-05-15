@@ -1,10 +1,10 @@
-##npm create vue@latest
+## npm create vue@latest
 
-##npm install
+## npm install
 
-##npm run format
+## npm run format
 
-##npm run dev
+## npm run dev
 
 
 
@@ -16,10 +16,9 @@ npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
 
 
-Configure your template paths
-Add the paths to all of your template files in your tailwind.config.js file.
+CONFIGURACION
 
-tailwind.config.js
+AGREGAR EN tailwind.config.js
 
 /** @type {import('tailwindcss').Config} */
 export default {
@@ -35,21 +34,14 @@ export default {
 
 
 
-Add the Tailwind directives to your CSS
-Add the @tailwind directives for each of Tailwind’s layers to your ./src/asset/style.css file. Creo style.css y borro main.css
-
-voy a main.js y le cambio a la ruta  ./src/asset/style.css 
+VOY A MAIN.JS Y LE CAMBIO A LA RUTA  ./SRC/ASSET/STYLE.CSS EN VES E MAIN.JS
 
 style.css
-
 
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-Start your build process
-Run your build process with npm run dev.
 
-Terminal
 
 npm run dev
 
