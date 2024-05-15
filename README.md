@@ -1,8 +1,10 @@
 ##npm create vue@latest
 
-  ##npm install
-  ##npm run format
-  ##npm run dev
+##npm install
+
+##npm run format
+
+##npm run dev
 
 
 
