@@ -83,9 +83,7 @@ import { ref } from 'vue';
 import axios from 'axios';
 
 <script setup>  
-```
 
-```
     // Estado reactivo para almacenar los usuarios
     const users = ref([]);
 
@@ -112,8 +110,6 @@ import axios from 'axios';
 };
 
 </script>
-
-
 
 ```
 ```
