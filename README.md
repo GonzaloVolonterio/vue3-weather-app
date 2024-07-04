@@ -36,6 +36,8 @@ npm run dev
 
 https://vue3-weather-app-app.netlify.app
 
+![weather3](https://github.com/GonzaloVolonterio/vue3-weather-app/assets/64506662/19d32831-7d23-451e-827c-5591ec83aa49)
+
 ![weather1](https://github.com/GonzaloVolonterio/vue3-weather-app/assets/64506662/b7d8cf35-717e-42ff-8387-edf033981e83)
 
 ![weather2](https://github.com/GonzaloVolonterio/vue3-weather-app/assets/64506662/570fc201-e0cf-402d-88d6-1c3d1b84e78a)
