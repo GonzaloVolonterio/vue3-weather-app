@@ -1,6 +1,6 @@
 # Vue 3 WeatherApp
 
-## Weather App: Search for real-time weather in your city, add or remove favorite cities with animated skeleton loading, smooth route transitions, and a reusable modal.
+## Weather App: Search for real-time weather in your city, add, remove favorite cities with animated skeleton loading, smooth route transitions, and a reusable modal.
 
  ### Built With
 
@@ -13,7 +13,6 @@ Api
 Mapbox
 Axios
 Uid
-
 ```
 
 ### Clone repo 🔧
