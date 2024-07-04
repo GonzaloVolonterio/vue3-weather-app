@@ -1,6 +1,6 @@
 # Vue 3 WeatherApp
 
-## Weather app : search your city for the weather in realtime, add, remove favourite city with animate skeleton ,route transitions, reusable modal.
+## Weather App: Search for real-time weather in your city, add or remove favorite cities with animated skeleton loading, smooth route transitions, and a reusable modal.
 
  ### Built With
 
